@@ -2,7 +2,7 @@
 
   Author: Jordan Micah Bennett
   
-  Why?: This is practice writing of basic neural network from memory. (I do this at the end of each year, or sometimes every 6 months](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE),for practice of fundamentals.)
+  Why?: This is practice writing of basic neural network from memory. ([I do this at the end of each year, or sometimes every 6 months](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE),for practice of fundamentals.)
   
   Date: September 12, 2019. (1.5 hours used)
   
